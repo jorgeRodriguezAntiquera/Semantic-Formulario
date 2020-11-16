@@ -13,10 +13,10 @@ function ModalExampleTopAligned() {
       onOpen={() => setOpen(true)}
       trigger={<Button>Enviar</Button>}
     >
-      <Modal.Header>Gracias</Modal.Header>
+      <Modal.Header>Gracias por participar</Modal.Header>
       <Modal.Content>
         <Modal.Description>
-          Esta partipando en nuestro concurso, al ganador se le informara por medio de email y/o alguna llamada
+          Esta partipando en nuestro concurso, al ganador se le informara por medio de email y/o llamada.
         </Modal.Description>
       </Modal.Content>
       <Modal.Actions>
