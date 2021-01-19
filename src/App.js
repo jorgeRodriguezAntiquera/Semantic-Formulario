@@ -20,6 +20,7 @@ function App() {
         </div>
         
         <div className ="App-body">
+          <p>sadasd</p>
         <Formulario/>
         <Modal/>
         </div>
